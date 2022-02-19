@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+.green_line {
+    width: 1060px;
+    background-color: #E0E7CE;
+    margin: 40px 50px;
+    padding: 20px;
+}
+
+.red_cube {
+    background-color: #F09B9B;
+    width: 189px;
+    height: 156px;
+    margin-left: 10px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.little_cube {
+    width: 189px;
+    height: 70px;
+    background-color: #F09B9B;
+}
+
+.last {
+    margin-top: 16px;
+}
+
+.fix_size {
+    width: 393px;
+    margin: 0 auto;
+}
